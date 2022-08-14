@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../order-management-system-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../customer/pom.xml" />
+        <option value="$PROJECT_DIR$/../functions/pom.xml" />
+        <option value="$PROJECT_DIR$/../delivery/pom.xml" />
+        <option value="$PROJECT_DIR$/../feedback/pom.xml" />
+        <option value="$PROJECT_DIR$/../kube-deployments/pom.xml" />
+        <option value="$PROJECT_DIR$/../workflows/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../gs-spring-boot/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../gs-spring-boot/gkems/pom.xml" />
+        <option value="$PROJECT_DIR$/../gcpterraform/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8.0_221" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
